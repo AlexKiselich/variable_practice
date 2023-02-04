@@ -6,3 +6,5 @@ dog_age = 5
 
 amount = 120.70
 amount_owed = 45.50
+
+amount_paid = false
